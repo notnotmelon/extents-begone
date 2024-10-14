@@ -1,10 +1,10 @@
 {
-  "name": "[internal-mod-name]",
+  "name": "extents-begone",
   "version": "0.0.0",
-  "title": "[MOD DISPLAY NAME]",
-  "author": "[YOUR MODS.FACTORIO.COM USERNAME]",
-  "homepage": "[HOMEPAGE/REPO URL]",
-  "description": "[SHORT DESCRIPTION]",
+  "title": "Extents Begone",
+  "author": "notnotmelon",
+  "homepage": "https://github.com/notnotmelon/extents-begone",
+  "description": "Removes the 250/250 pipeline extents feature from the game.",
   "factorio_version": "2.0",
   "dependencies": [
     "base"
