@@ -1,1 +1,1 @@
-data.raw["utility-constants"]["default"].default_pipeline_extent = 1000000
+data.raw["utility-constants"]["default"].default_pipeline_extent = 4000000
