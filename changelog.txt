@@ -1,4 +1,9 @@
 ---------------------------------------------------------------------------------------------------
+Version: 1.0.2
+Date: 2024-10-24
+  Bugfixes:
+    - Fixed that mods adding custom fluidbox extents would overwrite the default 4000000 provided by this mod.
+---------------------------------------------------------------------------------------------------
 Version: 1.0.1
 Date: 2024-10-16
   Bugfixes:
